@@ -1,0 +1,8 @@
+Superstore Pivot Report Insights
+================================
+
+1) West is the top region by sales, contributing 31.6% of total sales.
+2) Technology is the largest category, driving 36.4% of total sales.
+3) Consumer is the largest customer segment, contributing 50.6% of total sales.
+4) The highest sales combination is Region=West and Segment=Consumer with sales of 362880.77.
+5) Profitability differs by category: best profit margin is Technology while the weakest is Furniture (weighted by sales).
